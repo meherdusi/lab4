@@ -65,15 +65,25 @@ int main (int argc, char *argv[])
 }
 ~~~~
 Computing sqrt of 9 to be 5
+
 Computing sqrt of 9 to be 3.4
+
 Computing sqrt of 9 to be 3.02353
+
 Computing sqrt of 9 to be 3.00009
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 The square root of 9 is 3
 
 
@@ -150,15 +160,25 @@ set_tests_properties (TutorialUsage
   )
 ~~~~
 Computing sqrt of 9 to be 5
+
 Computing sqrt of 9 to be 3.4
+
 Computing sqrt of 9 to be 3.02353
+
 Computing sqrt of 9 to be 3.00009
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 The square root of 9 is 3
 
 ##Step 4
@@ -183,15 +203,25 @@ check_function_exists (exp HAVE_EXP)
 ~~~~
 
 Computing sqrt of 9 to be 5
+
 Computing sqrt of 9 to be 3.4
+
 Computing sqrt of 9 to be 3.02353
+
 Computing sqrt of 9 to be 3.00009
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 The square root of 9 is 3
 
 ##Step 5
@@ -271,14 +301,24 @@ do_test (0.0001 "0.0001 is 0.01")
 
 ~~~~
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 Computing sqrt of 9 to be 3
+
 The square root of 9 is 3
 
